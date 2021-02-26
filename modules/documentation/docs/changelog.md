@@ -2,6 +2,8 @@
 
 ## Next Release
 
+- amplify changes
+
 ## 0.1.18-beta.1
 
 - \[router\] Clean up hanging transfers on reconnect
